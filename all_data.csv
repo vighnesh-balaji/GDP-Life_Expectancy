@@ -1,0 +1,97 @@
+Country,Year,Life expectancy at birth (years),GDP
+Chile,2000,77.3,77860932152
+Chile,2001,77.3,70979923960
+Chile,2002,77.8,69736811435
+Chile,2003,77.9,75643459840
+Chile,2004,78,99210392858
+Chile,2005,78.4,1.23E+11
+Chile,2006,78.9,1.55E+11
+Chile,2007,78.9,1.74E+11
+Chile,2008,79.6,1.80E+11
+Chile,2009,79.3,1.72E+11
+Chile,2010,79.1,2.19E+11
+Chile,2011,79.8,2.52E+11
+Chile,2012,79.9,2.67E+11
+Chile,2013,80.1,2.78E+11
+Chile,2014,80.3,2.61E+11
+Chile,2015,80.5,2.43E+11
+China,2000,71.7,1.21E+12
+China,2001,72.2,1.34E+12
+China,2002,72.7,1.47E+12
+China,2003,73.1,1.66E+12
+China,2004,73.5,1.96E+12
+China,2005,73.9,2.29E+12
+China,2006,74.2,2.75E+12
+China,2007,74.4,3.55E+12
+China,2008,74.5,4.60E+12
+China,2009,74.9,5.11E+12
+China,2010,75,6.10E+12
+China,2011,75.2,7.57E+12
+China,2012,75.4,8.56E+12
+China,2013,75.6,9.61E+12
+China,2014,75.8,1.05E+13
+China,2015,76.1,1.11E+13
+Germany,2000,78,1.95E+12
+Germany,2001,78.3,1.95E+12
+Germany,2002,78.4,2.08E+12
+Germany,2003,78.5,2.51E+12
+Germany,2004,79.1,2.82E+12
+Germany,2005,79.2,2.86E+12
+Germany,2006,79.6,3.00E+12
+Germany,2007,79.8,3.44E+12
+Germany,2008,79.9,3.75E+12
+Germany,2009,80,3.42E+12
+Germany,2010,80.1,3.42E+12
+Germany,2011,80.5,3.76E+12
+Germany,2012,80.6,3.54E+12
+Germany,2013,80.6,3.75E+12
+Germany,2014,80.9,3.89E+12
+Germany,2015,81,3.38E+12
+Mexico,2000,74.8,6.84E+11
+Mexico,2001,75,7.25E+11
+Mexico,2002,75,7.42E+11
+Mexico,2003,75,7.13E+11
+Mexico,2004,75.4,7.70E+11
+Mexico,2005,75.3,8.66E+11
+Mexico,2006,75.8,9.65E+11
+Mexico,2007,76,1.04E+12
+Mexico,2008,75.6,1.10E+12
+Mexico,2009,75.7,8.95E+11
+Mexico,2010,75.6,1.05E+12
+Mexico,2011,76.1,1.17E+12
+Mexico,2012,76.3,1.19E+12
+Mexico,2013,76.6,1.26E+12
+Mexico,2014,76.6,1.30E+12
+Mexico,2015,76.7,1.15E+12
+United States of America,2000,76.8,1.03E+13
+United States of America,2001,76.9,1.06E+13
+United States of America,2002,77,1.10E+13
+United States of America,2003,77.2,1.15E+13
+United States of America,2004,77.5,1.23E+13
+United States of America,2005,77.5,1.31E+13
+United States of America,2006,77.8,1.39E+13
+United States of America,2007,78.1,1.45E+13
+United States of America,2008,78.2,1.47E+13
+United States of America,2009,78.5,1.44E+13
+United States of America,2010,78.7,1.50E+13
+United States of America,2011,78.7,1.55E+13
+United States of America,2012,78.8,1.62E+13
+United States of America,2013,78.9,1.67E+13
+United States of America,2014,79.1,1.74E+13
+United States of America,2015,79.3,1.81E+13
+Zimbabwe,2000,46,6689957600
+Zimbabwe,2001,45.3,6777384700
+Zimbabwe,2002,44.8,6342116400
+Zimbabwe,2003,44.5,5727591800
+Zimbabwe,2004,44.3,5805598400
+Zimbabwe,2005,44.6,5755215200
+Zimbabwe,2006,45.4,5443896500
+Zimbabwe,2007,46.6,5291950100
+Zimbabwe,2008,48.2,4415702800
+Zimbabwe,2009,50,8621573608
+Zimbabwe,2010,52.4,10141859710
+Zimbabwe,2011,54.9,12098450749
+Zimbabwe,2012,56.6,14242490252
+Zimbabwe,2013,58,15451768659
+Zimbabwe,2014,59.2,15891049236
+Zimbabwe,2015,60.7,16304667807
